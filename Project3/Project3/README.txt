@@ -1,4 +1,4 @@
-This is Nathan Pierson's, UIN 660611615, submission for Project 3, the appliance manager client.
+This is Nathan Pierson's submission for Project 3, the appliance manager client.
 
 There are three header files and four source code files:
 
